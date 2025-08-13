@@ -1,1 +1,0 @@
-Manage-HPBiosSettings.ps1 -GetSettings

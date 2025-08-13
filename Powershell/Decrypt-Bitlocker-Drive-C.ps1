@@ -1,1 +1,0 @@
-disable-bitlocker -MountPoint "C:"

@@ -1,1 +1,0 @@
-Start-Process -FilePath "C:\ProgramData\Citrix\Citrix Receiver\TrolleyExpress.exe" -Argumentlist "/uninstall /silent /cleanup /noreboot" -wait
